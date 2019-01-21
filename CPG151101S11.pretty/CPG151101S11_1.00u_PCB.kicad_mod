@@ -1,4 +1,4 @@
-(module CPG151101S11_1.00u_PCB (layer F.Cu) (tedit 5BBB5A56)
+(module CPG151101S11_1.00u_PCB (layer F.Cu) (tedit 5C45D449)
   (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "cherry mx keyswitch MX1A 1.00u PCB")
   (fp_text reference REF** (at -2.54 9.906) (layer F.SilkS)
@@ -21,8 +21,8 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -6.35 2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.76 1.76) (drill 1.76) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.76 1.76) (drill 1.76) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask))
   (pad 1 smd rect (at 3.81 0) (size 3 2.5) (layers B.Cu B.Paste B.Mask))
   (pad 2 smd rect (at -10.16 2.54) (size 3 2.5) (layers B.Cu B.Paste B.Mask))
   (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX1A_1.00u_PCB.wrl
